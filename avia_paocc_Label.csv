@@ -1,0 +1,34 @@
+TIME;GEO;UNIT;TRA_MEAS;PARTNER;"Attributs (""flags"") disponibles :"
+2019M12;Belgique;Passager;Passagers à bord;Union européenne - 28 pays (2013-2020);"b,""rupture de série"""
+2019Q1;Bulgarie;Vol;Passagers à bord (arrivées);Belgique;"c,""confidentiel"""
+2019Q2;Tchéquie;;Passagers à bord (départs);Bulgarie;"d,""définition différente, voir métadonnées"""
+2019Q3;Danemark;;Passagers transportés;Tchéquie;"e,""estimé"""
+2019Q4;Allemagne (jusqu'en 1990, ancien territoire de la RFA);;Passagers transportés (arrivées);Danemark;"f,""prévision"""
+2020M01;Estonie;;Passagers transportés (départs);Allemagne (jusqu'en 1990, ancien territoire de la RFA);"n,""non significatif"""
+2020M02;Irlande;;;Estonie;"p,""provisoire"""
+2020M03;Grèce;;;Irlande;"r,""révisé"""
+2020M04;Espagne;;;Grèce;"s,""estimation Eurostat"""
+2020Q1;France;;;Espagne;"u,""peu fiable"""
+;Croatie;;;France;"z,""non applicable"""
+;Italie;;;Croatie;
+;Chypre;;;Italie;Caractères spécial :
+;Lettonie;;;Chypre;":,""non disponible"""
+;Lituanie;;;Lettonie;
+;Luxembourg;;;Lituanie;
+;Hongrie;;;Luxembourg;
+;Malte;;;Hongrie;
+;Pays-Bas;;;Malte;
+;Autriche;;;Pays-Bas;
+;Pologne;;;Autriche;
+;Portugal;;;Pologne;
+;Roumanie;;;Portugal;
+;Slovénie;;;Roumanie;
+;Slovaquie;;;Slovénie;
+;Finlande;;;Slovaquie;
+;Suède;;;Finlande;
+;Royaume-Uni;;;Suède;
+;Islande;;;Royaume-Uni;
+;Norvège;;;Islande;
+;Suisse;;;Norvège;
+;;;;Suisse;
+;;;;Turquie;
